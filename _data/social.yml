@@ -187,7 +187,15 @@ websites:
       img: quora.png
       tfa: No
       twitter: quora
-
+      
+      - name: QRZ
+      url: https://QRZ.com/
+      img: qrz.png
+      tfa: Yes
+      sms: Yes
+      software: Yes
+      doc: https://www.qrz.com/manager/two-factor
+      
     - name: Reddit
       url: https://www.reddit.com/
       img: reddit.png
